@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 langchain
+langchain-community          # <-- Add this line
 langchain-huggingface
 sentence-transformers
 faiss-cpu
