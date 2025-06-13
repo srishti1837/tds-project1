@@ -2,7 +2,7 @@ fastapi
 uvicorn
 langchain==0.1.17
 langchain-core==0.1.36
-langchain-community==0.0.22
+langchain-community==0.0.20
 langchain-huggingface==0.3.0
 sentence-transformers
 faiss-cpu
