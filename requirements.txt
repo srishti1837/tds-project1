@@ -1,9 +1,7 @@
 fastapi
 uvicorn
-langchain==0.1.17
-langchain-core==0.1.48
-langchain-community==0.0.36
-langchain-huggingface==0.3.0
+langchain
+langchain-huggingface
 sentence-transformers
 faiss-cpu
 pillow
