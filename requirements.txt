@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain==0.1.17
+langchain-core==0.1.36
+langchain-community==0.0.22
+langchain-huggingface==0.0.6
+sentence-transformers
+faiss-cpu
+pillow
+pytesseract
+python-multipart
